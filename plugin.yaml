@@ -1,0 +1,5 @@
+name: dikw
+version: v7.7.5
+provider_class: DIKWPlugin
+tools: [memory_learn, memory_recall, memory_evolve, memory_admin]
+hooks: [on_session_start, on_session_end]
